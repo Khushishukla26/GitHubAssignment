@@ -1,0 +1,23 @@
+Project Notes for GitHubAssignment
+
+1. Purpose of the Project:
+   - This repository serves as a hands-on exercise to learn Git and GitHub functionalities.
+
+2. Key Features Implemented:
+   - Created a public repository.
+   - Added example.txt to demonstrate file uploads.
+   - Cloned the repository to local machine.
+   - Created and pushed notes.txt to document project details.
+
+3. Future Tasks:
+   - Explore collaboration features by inviting a classmate.
+   - Test forking and pull requests.
+   - Experiment with branching and merging.
+
+4. Issues Encountered:
+   - Faced issues with Git installation initially.
+   - Resolved the error by ensuring Git was added to PATH.
+
+5. Learning Outcomes:
+   - Gained familiarity with Git commands: clone, add, commit, and push.
+   - Understood the structure of a GitHub repository and its collaborative features.
